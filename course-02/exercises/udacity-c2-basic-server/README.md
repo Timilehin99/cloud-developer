@@ -27,6 +27,7 @@ To run the server locally in developer mode, open terminal and run:
 ```bash
 npm run dev
 ```
+Just testing out shit I learnt.
 
 Developer mode runs off the TypeScript source. Any saves will reset the server and run the latest version of the codebase. 
 
